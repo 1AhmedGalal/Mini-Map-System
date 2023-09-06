@@ -7,8 +7,9 @@ An application written in C++ as a project for FCIS-ASU's data structures course
 - Users can add or remove cities and roads.
 - Users can look at the whole map using DFS or BfS.
 - Calculating the shortest path between two cities using Dijkstra's algorithm.
-- Searching for the minimum spanning tree using Kruskal's Algorithm or Prim Algorithm.
+- Searching for the minimum spanning tree using Kruskal's Algorithm or Prim's Algorithm.
 - GUI using Qt.
+- Saving Progress to files.
 
 ## Creators
 
