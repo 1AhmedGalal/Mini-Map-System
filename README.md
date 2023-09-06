@@ -1,8 +1,8 @@
-# Wasalny
+# Mini Map System (Wasalny)
 
 This is a console application written in C++ as a project for a data structures course. The app is based on graph theory and allows users to add or remove nodes and edges using a Mapper class that controls how data is displayed to the user and manages the IDs of nodes and edges. The app also includes several algorithms for calculating distances and paths between nodes, including Dijkstra's algorithm for finding the shortest path and minimum spanning tree, as well as BFS and DFS algorithms for displaying distances between nodes.
 
-## Usage
+## Features
 
 To use the app, simply run the executable file. The app will display a simple GUI that allows you to add or remove nodes and edges, as well as display the distances between nodes using BFS and DFS algorithms.
 
@@ -22,7 +22,7 @@ To display the distances between nodes using BFS or DFS algorithms, select the s
 
 If you would like to contribute to the app, feel free to fork the repository and submit a pull request. Please make sure to follow the coding standards used in the app and include appropriate documentation with your changes.
 
-## Collaborators
+## Creators
 
 - [Ahmed Galal](https://github.com/1AhmedGalal)
 - [Ahmed Reda](https://github.com/ahmedredaooooo)
@@ -30,8 +30,3 @@ If you would like to contribute to the app, feel free to fork the repository and
 - [Ahmed Ayman](https://github.com/AhmedAymanMo)
 - [Abdelrahman Emad](https://github.com/AbdelrahmanEmad99)
 - [Ahmed Wageh](https://github.com/Ahmed4474)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
