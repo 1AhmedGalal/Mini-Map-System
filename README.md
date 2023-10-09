@@ -1,6 +1,6 @@
 # Mini Map System (Wasalny)
 
-An application written in C++ as a project for FCIS-ASU's data structures course. The app is an application of graph theory as it allows users to add or remove cities and roads. The app can dispaly the map, calculate the shortest path between two cities and calculate the shortest path connceting all cities if found.
+An application written in C++ as a project for FCIS-ASU's data structures course. The app is an application of graph theory as it allows users to add or remove cities and roads. The app can display the map, calculate the shortest path between two cities and calculate the shortest path connceting all cities if found.
 
 ## Features
 
